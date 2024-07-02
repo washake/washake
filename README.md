@@ -37,7 +37,9 @@ My current research focuses on:
   - IEEE Internet of Things Journal
 
 - **Technical Program Committee (TPC) Chair**
+  - IEEE Globecom’24
   - IEEE CIC/ICCC’24
+  - IEEE CIC/ICCC’23
 
 - **TPC Member**
   - IEEE Globecom (2019-2024)
