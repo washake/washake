@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Qihao Li - Associate Professor at Jilin University
-
 Welcome to the official repository of Qihao Li. I am an associate professor at the College of Communication Engineering, Jilin University, China. My research interests lie in the fields of industrial Internet, digital twin, optimal control and optimization, wireless network security, and localization.
 
 ## About Me
