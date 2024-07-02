@@ -10,7 +10,6 @@ Welcome to the official repository of Qihao Li. I am an associate professor at t
 
 - **Ph.D. in Electrical and Computer Engineering**
   - University of Oslo, Norway, 2019
-
 - **M.Sc. in Information and Communication Technology**
   - University of Agder, Norway, 2013
 
@@ -19,11 +18,9 @@ Welcome to the official repository of Qihao Li. I am an associate professor at t
 - **Associate Professor**
   - College of Communication Engineering, Jilin University, China
   - Current
-
 - **Postdoctoral Fellow**
   - Department of Electrical and Computer Engineering, University of Waterloo, ON, Canada
   - 2020
-
 - **Visiting Researcher**
   - Department of Electrical and Computer Engineering, University of Waterloo, ON, Canada
   - 2016
