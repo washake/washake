@@ -16,14 +16,11 @@ Welcome to the official repository of Qihao Li. I am an associate professor at t
 ### Professional Experience
 
 - **Associate Professor**
-  - College of Communication Engineering, Jilin University, China
-  - Current
+  - College of Communication Engineering, Jilin University, China 2023-Current
 - **Postdoctoral Fellow**
-  - Department of Electrical and Computer Engineering, University of Waterloo, ON, Canada
-  - 2020
+  - Department of Electrical and Computer Engineering, University of Waterloo, ON, Canada, 2020-2021
 - **Visiting Researcher**
-  - Department of Electrical and Computer Engineering, University of Waterloo, ON, Canada
-  - 2016
+  - Department of Electrical and Computer Engineering, University of Waterloo, ON, Canada, 2016
 
 ### Research Focus
 
